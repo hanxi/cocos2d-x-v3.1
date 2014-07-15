@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'rutodie' target in the 'rutodie' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif

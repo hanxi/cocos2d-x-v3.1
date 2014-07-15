@@ -1,0 +1,34 @@
+{
+    "ndk_module_path" :[
+        "../../cocos2d-x",
+        "../../cocos2d-x/cocos/",
+        "../../cocos2d-x/external",
+        "../../cocos2d-x/cocos/scripting"
+    ],
+    "copy_resources": [
+        {
+            "from": "../../../src",
+            "to": "src"
+        },
+        {
+            "from": "../../../res",
+            "to": "res"
+        },
+        {
+            "from": "../../cocos2d-x/cocos/scripting/lua-bindings/script",
+            "to": ""
+        },
+        {
+            "from": "../../../sdk/WandoujiaAdNetworkSDK_V1.3.1/libs/armeabi/libwdj_adnetwork.so",
+            "to": "../libs/armeabi/"
+        },
+        {
+            "from": "../../../sdk/WandoujiaAdNetworkSDK_V1.3.1/libs/android-support-v4.jar",
+            "to": "../libs/"
+        },
+        {
+            "from": "../../../sdk/WandoujiaAdNetworkSDK_V1.3.1/libs/wandoujia-ads.jar",
+            "to": "../libs/"
+        }
+    ]
+}
