@@ -1,0 +1,11 @@
+frameworks/runtime-src/proj.android/assets/
+linux-build
+runtime/android
+runtime/linux
+luajit
+frameworks/runtime-src/proj.android/ant.properties
+frameworks/runtime-src/proj.android/bin
+frameworks/runtime-src/proj.android/gen
+frameworks/runtime-src/proj.android/obj
+publish
+
