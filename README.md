@@ -31,3 +31,7 @@
 
 * #### 豌豆荚：<http://www.wandoujia.com/apps/com.hanxi.runtodie>
 
+### ios上同样可运行
+
+* #### 已经在ios模拟器上测试通过
+
