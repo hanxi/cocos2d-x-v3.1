@@ -38,4 +38,4 @@
 
 * #### 需要稍微配置xcode. 已经把xcode配置文件上传了。
 
-#### 文档： <http://www.hanxi.info/2014/07/15/original-cocos2dx-v3.1-game/>
+#### 文档： <http://oldblog.hanxi.info/2014/07/15/original-cocos2dx-v3.1-game/>
